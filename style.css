@@ -14,8 +14,8 @@ body {
 }
 
 .placeholder{
-  vertical-align: middle !important;
-  text-align: center;
+  text-align: center !important;
+  justify-content: center !important;
 }
 
 .container{
@@ -30,12 +30,13 @@ body {
 }
 
 p{
-  font-size: 30px !important;
+  font-size: 20px !important;
   vertical-align: middle !important;
+  justify-content: center !important;
 }
 
 button{
-  margin: 30px !important;
+  margin-top: 50px !important;
   vertical-align: middle !important;
 }
 
